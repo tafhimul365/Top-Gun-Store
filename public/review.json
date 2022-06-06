@@ -1,0 +1,74 @@
+[
+    {
+        "platform": "capterra.com",
+        "rating": 3,
+        "id": 1,
+        "img": "./Image/img1.jpg",
+        "user_name": "David W.",
+        "text": null,
+        "title": null,
+        "timestamp": "2022-01-11",
+        "cons": "Could use more features. It isn't as all-singing as some ATSs",
+        "pros": "Not perfect but quite reasonably priced. Customer Service experiences have been good."
+    },
+    {
+        "platform": "capterra.com",
+        "rating": 5,
+        "id": 2,
+        "img": "./Image/img2.jpg",
+        "user_name": "Tarek S. M.",
+        "text": null,
+        "title": null,
+        "timestamp": "2021-11-28",
+        "cons": "relatively expensive comparing it to similar sgun feature",
+        "pros": "You can easily get used to it and it's very handy"
+    },
+    {
+        "platform": "capterra.com",
+        "rating": 4,
+        "id": 3,
+        "img": "./Image/img3.jpg",
+        "user_name": "Anna Z.",
+        "text": null,
+        "title": null,
+        "timestamp": "2021-07-28",
+        "cons": "It's sometimes missing some small features or limitations of what it can do.   ",
+        "pros": "The user interface of the tool is very straight forward. This is the third ATS I've used and I would say that it generally has majority of the features you'd look for in an ATS."
+    },
+    {
+        "platform": "capterra.com",
+        "rating": 4,
+        "id": 4,
+        "img": "./Image/img4.jpg",
+        "user_name": "Peter",
+        "text": null,
+        "title": null,
+        "timestamp": "2021-07-21",
+        "cons": "I didn't use the gun long enough to dislike something about it.  However, sometimes the software could be more customisable. ",
+        "pros": "I like everything about the gun, it's very easy to use, you can track all the pipeline of candidates, interact with people. "
+    },
+    {
+        "platform": "capterra.com",
+        "rating": 1,
+        "id": 5,
+        "img": "./Image/img5.jpg",
+        "user_name": "Peyush B.",
+        "text": null,
+        "title": null,
+        "timestamp": "2021-06-22",
+        "cons": "Non-coordination between selling and service and accounts teams. Poor customer service repeatedly. Management is least bothered. They block bullet in the middle due to non coordination at their end.",
+        "pros": "It has a mobile app and it has a pipeline feature"
+    },
+    {
+        "platform": "capterra.com",
+        "rating": 5,
+        "id": 6,
+        "img": "./Image/img6.jpg",
+        "user_name": "Peter R.",
+        "text": null,
+        "title": null,
+        "timestamp": "2021-03-20",
+        "cons": "It's a bit difficult and time consuming to setup perfectly, but once setup, all the time invested into setup pays back quickly.",
+        "pros": "Recruitee helps us to streamline our recruiting and onboarding process. It forces us to follow guidelines and deadlines and make our process much more professional."
+    }
+]
